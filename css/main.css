@@ -26,7 +26,7 @@
 	color: white;
 }
 
-.nav navbar-nav navbar-right li a{
+.navbar-default .navbar-nav>li>a{
 	color: white;
 }
 
@@ -42,7 +42,7 @@
 
 .acercademi {
 	height: 500px;
-	padding:3% 0 2%;
+	padding:4% 0 2%;
 	background-color: #557F60;
 }
 
@@ -69,25 +69,26 @@ h2 {
 .habilidades {
 	background-color: #84CA6B;
 	height: auto;
-	padding: 3% 0 5%;
+	padding: 4% 0 5%;
+	
 }
 
 .imagenes {
-	width: 23%;
+	width: 35%;
 	margin-top: 7%;
 	padding: 4%;
-	height: 100px;
+	height: 90px;
 }
 
 .proyectos {
 	background-color: #2B4030;
 	height: auto;
-	padding: 3% 0 5%;
+	padding: 4% 0 5%;
 }
 
 
 .trabajos {
-	width: 250px;
+	width: 280px;
 	height: 180px;
 	margin-top: 30px;
 	border-radius: 10%;
